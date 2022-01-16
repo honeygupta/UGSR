@@ -1,0 +1,2 @@
+model_checkpoint_path: "ugsr-70"
+all_model_checkpoint_paths: "ugsr-70"
