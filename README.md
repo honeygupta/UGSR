@@ -1,9 +1,9 @@
-# Unaligned Guided Thermal Image Super-Resolution
+# Unaligned Guided Thermal Image Super-Resolution [[paper](https://ieeexplore.ieee.org/document/9633258)]
 #### Authors: Honey Gupta and Kaushik Mitra, IIT Madras 
 For queries, contact: `hn.gpt1@gmail.com`
 
 
-###Installation
+### Installation
 
 Required packages: 
 
